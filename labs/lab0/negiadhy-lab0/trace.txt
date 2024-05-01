@@ -1,0 +1,20 @@
+COURSE: CSE 325, Spring 2024
+DATE: Sun 07 Jan 2024 05:51:37 PM EST
+ 
+USER: negiadhy
+HOST: arctic
+Number of processors: 32
+Size of main memory: 32936468 kilobytes
+ 
+Time: 7897.9385: lab0: process 17940 starting.
+
+Time: 7897.9386: lab0: command-line parameters are negiadhy, trace.txt
+
+Time: 7897.9386: lab0: the user is Adhyan Negi
+
+Time: 7897.9386: lab0: the user id is 33921
+
+Time: 7897.9386: lab0: the command name found in /proc/17940/comm is lab0
+
+Time: 7898.4387: lab0: exiting 
+
